@@ -1,6 +1,6 @@
 # Embedded Software Engineer
 
-###Education
+### Education
 MS, Computer Engineering
 
 
